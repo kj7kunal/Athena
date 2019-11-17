@@ -1,0 +1,21 @@
+{
+  "name": "github.com/kosaikham/ecommerce-app-design",
+  "version": "0.0.0",
+  "description": "kosaikham/ecommerce-app-design @ Feb 13, 2019",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "devDependencies": {
+    "babel-preset-expo": "^7.0.0"
+  },
+  "dependencies": {
+    "expo": "^32.0.0",
+    "react": "16.5.0",
+    "react-native": ">=0.48.4",
+    "react-navigation": "^3.0.9",
+    "react-native-star-rating": "^1.1.0",
+    "@expo/vector-icons": "10.0.6",
+    "react-native-responsive-screen": "^1.2.0",
+    "react-native-keyboard-aware-scroll-view": "^0.8.0"
+  }
+}
